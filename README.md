@@ -7,7 +7,7 @@
 
 |PAR DÉFAUT|ALTERNATIVE(S)|
 |--:|:--|
-|[Microsoft 365](https://www.office.com)|[CryptPad](https://cryptpad.org)<br>[FreeOffice](https://www.freeoffice.com/fr)<br>[LibreOffice](https://fr.libreoffice.org)<br>[OnlyOffice](https://www.onlyoffice.com/fr)<br>[WPS Office](https://www.wps.com/fr-FR)|
+|[Microsoft 365](https://www.office.com)|[Calligra](https://calligra.org)<br>[CryptPad](https://cryptpad.org)<br>[FreeOffice](https://www.freeoffice.com/fr)<br>[LibreOffice](https://fr.libreoffice.org)<br>[OfficeSuite](https://officesuite.com/fr)<br>[OnlyOffice](https://www.onlyoffice.com/fr)<br>[WPS Office](https://www.wps.com/fr-FR)|
 
 ## Moteur de recherche
 
