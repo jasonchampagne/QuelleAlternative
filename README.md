@@ -19,4 +19,4 @@
 
 |PAR DÉFAUT|ALTERNATIVE(S)|
 |--:|:--|
-|[Edge](https://www.microsoft.com/fr-fr/edge)|[Brave](https://brave.com/fr)<br>[Chrome](https://www.google.fr/chrome/index.html)<br>[Firefox](https://www.mozilla.org/fr/firefox)<br>[Opera](https://www.opera.com/fr)<br>[Tor](https://www.torproject.org/fr)<br>[Vivaldi](https://vivaldi.com/fr)|
+|[Edge](https://www.microsoft.com/fr-fr/edge)|[Brave](https://brave.com/fr)<br>[Chrome](https://www.google.fr/chrome/index.html)<br>[Firefox](https://www.mozilla.org/fr/firefox)<br>[Mullvad](https://mullvad.net/en/browser)<br>[Opera](https://www.opera.com/fr)<br>[Tor](https://www.torproject.org/fr)<br>[Vivaldi](https://vivaldi.com/fr)|
