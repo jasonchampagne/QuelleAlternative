@@ -33,4 +33,4 @@
 
 |PAR DÉFAUT|ALTERNATIVE(S)|
 |--:|:--|
-|[Android](https://www.android.com/intl/fr_fr)<br>[iOS](https://www.apple.com/fr/ios)||
+|[Android](https://www.android.com/intl/fr_fr)<br>[iOS](https://www.apple.com/fr/ios)|[/e/OS](https://e.foundation/fr/e-os)<br>[LineageOS](https://lineageos.org)<br>[Ubuntu Touch](https://ubuntu-touch.io/fr)|
