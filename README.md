@@ -1,5 +1,8 @@
 # QuelleAlternative
 
+> [!NOTE]
+> Cette page ne liste pas nécessairement des logiciels et services recommandés, au code source ouvert et/ou respectueux de votre vie privée. L'objectif ici est lister simplement des alternatives pas toujours connues et qui peuvent, selon vos besoins, remplacer vos outils actuels.
+
 ## Moteur de recherche
 
 |PAR DÉFAUT|ALTERNATIVE(S)|
