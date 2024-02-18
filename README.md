@@ -23,6 +23,14 @@
 
 ## Système d'exploitation
 
+### PC
+
 |PAR DÉFAUT|ALTERNATIVE(S)|
 |--:|:--|
 |[Mac OS](https://www.apple.com/fr)<br>[Windows](https://www.microsoft.com/fr-fr/software-download)|[ArchLinux](https://archlinux.org)<br>[Debian](https://www.debian.org/index.fr.html)<br>[ElementaryOS](https://elementary.io/fr)<br>[Fedora](https://fedoraproject.org/fr)<br>[FreeBSD](https://www.freebsd.org)<br>[Linux Mint](https://www.linuxmint.com)<br>[Manjaro](https://manjaro.org)<br>[Ubuntu](https://www.ubuntu-fr.org)<br>[ZorinOS](https://zorin.com/os)|
+
+### Mobile
+
+|PAR DÉFAUT|ALTERNATIVE(S)|
+|--:|:--|
+|[Android](https://www.android.com/intl/fr_fr)<br>[iOS](https://www.apple.com/fr/ios)||
