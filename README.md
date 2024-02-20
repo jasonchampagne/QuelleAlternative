@@ -24,7 +24,7 @@
 
 |PAR DÉFAUT|ALTERNATIVE(S)|
 |--:|:--|
-|[WhatsApp](https://www.whatsapp.com)|[Telegram](https://telegram.org)<br>[TeleGuard](https://teleguard.com/fr)<br>[Signal](https://www.signal.org/fr)|
+|[Snapchat](https://www.snapchat.com)<br>[WeChat](https://www.wechat.com/fr)<br>[WhatsApp](https://www.whatsapp.com)|[LINE](https://line.me)<br>[Telegram](https://telegram.org)<br>[TeleGuard](https://teleguard.com/fr)<br>[Signal](https://www.signal.org/fr)|
 
 ## Moteur de recherche
 
