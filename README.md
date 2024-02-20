@@ -9,6 +9,12 @@
 |--:|:--|
 |[Google Docs](https://docs.google.com)<br>[Microsoft 365](https://www.office.com)|[Calligra](https://calligra.org)<br>[CryptPad](https://cryptpad.org)<br>[FreeOffice](https://www.freeoffice.com/fr)<br>[LibreOffice](https://fr.libreoffice.org)<br>[OfficeSuite](https://officesuite.com/fr)<br>[OnlyOffice](https://www.onlyoffice.com/fr)<br>[WPS Office](https://www.wps.com/fr-FR)|
 
+## Communication
+
+|PAR DÉFAUT|ALTERNATIVE(S)|
+|--:|:--|
+|[WhatsApp](https://www.whatsapp.com)|[Telegram](https://telegram.org)<br>[TeleGuard](https://teleguard.com/fr)<br>[Signal](https://www.signal.org/fr)|
+
 ## Moteur de recherche
 
 |PAR DÉFAUT|ALTERNATIVE(S)|
