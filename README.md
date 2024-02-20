@@ -8,7 +8,7 @@
 > + [Communication](#communication)
 > + [Moteur de recherche](#moteur-de-recherche)
 > + [Navigateur web](#navigateur-web)
-> + [Système d'exploitation](#systèmes-dexploitation)
+> + [Système d'exploitation](#système-dexploitation)
 >   + [PC](#pc)
 >   + [Mobile](#mobile) 
 
