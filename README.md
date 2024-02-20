@@ -24,7 +24,7 @@
 
 |PAR DÉFAUT|ALTERNATIVE(S)|
 |--:|:--|
-|[Snapchat](https://www.snapchat.com)<br>[WeChat](https://www.wechat.com/fr)<br>[WhatsApp](https://www.whatsapp.com)|[LINE](https://line.me)<br>[Telegram](https://telegram.org)<br>[TeleGuard](https://teleguard.com/fr)<br>[Signal](https://www.signal.org/fr)|
+|[Facetime](https://apps.apple.com/fr/app/facetime/id1110145091)<br>[Messenger](https://www.messenger.com)<br>[Snapchat](https://www.snapchat.com)<br>[WeChat](https://www.wechat.com/fr)<br>[WhatsApp](https://www.whatsapp.com)|[LINE](https://line.me)<br>[Telegram](https://telegram.org)<br>[TeleGuard](https://teleguard.com/fr)<br>[Signal](https://www.signal.org/fr)|
 
 ## Moteur de recherche
 
