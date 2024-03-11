@@ -30,7 +30,7 @@
 
 |PAR DÉFAUT|ALTERNATIVE(S)|
 |--:|:--|
-|[Bing](https://www.bing.com)<br>[Google](https://www.google.fr)|[DuckDuckGo](https://duckduckgo.com)<br>[Ecosia](https://www.ecosia.org/?c=fr)<br>[FreeSpoke](https://freespoke.com)<br>[Mojeek](https://www.mojeek.com/)<br>[Presearch](https://presearch.com)<br>[Qwant](https://www.qwant.com/?l=fr)<br>[Searx](https://searx.be)<br>[Startpage](https://www.startpage.com/fr)<br>[Swisscows](https://swisscows.com/fr)<br>[Yandex](https://yandex.com)<br>[Yahoo Search](https://fr.search.yahoo.com)|
+|[Bing](https://www.bing.com)<br>[Google](https://www.google.fr)|[Brave Search](https://search.brave.com)<br>[DuckDuckGo](https://duckduckgo.com)<br>[Ecosia](https://www.ecosia.org/?c=fr)<br>[FreeSpoke](https://freespoke.com)<br>[Mojeek](https://www.mojeek.com)<br>[Presearch](https://presearch.com)<br>[Qwant](https://www.qwant.com/?l=fr)<br>[Searx](https://searx.be)<br>[Startpage](https://www.startpage.com/fr)<br>[Swisscows](https://swisscows.com/fr)<br>[Yandex](https://yandex.com)<br>[Yahoo Search](https://fr.search.yahoo.com)|
 
 ## Navigateur web
 
